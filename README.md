@@ -2,6 +2,10 @@
 
 A Streamlit application that converts natural language questions into SQL queries and executes them against uploaded databases.
 
+# Demo
+
+https://github.com/user-attachments/assets/b91d789e-5e3b-4052-9660-43925227d37e
+
 ## Features
 
 - Upload SQLite database files (.db, .sqlite, .sqlite3) or SQL script files (.sql)
