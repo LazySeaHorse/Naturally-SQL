@@ -2,6 +2,11 @@
 
 A powerful Streamlit application that converts natural language questions into SQL queries and executes them against databases. Create, upload, explore, and query databases using plain English with support for multiple AI backends.
 
+| ![Image 1](https://i.postimg.cc/fLGTRHcQ/1ghjftyhg.png) | ![Image 2](https://i.postimg.cc/XJGY3Myg/2ghjftyhg.png) |
+|----------------------------------------------------------|----------------------------------------------------------|
+| ![Image 3](https://i.postimg.cc/6Q1pD6T3/3ghjftyhg.png) | ![Image 4](https://i.postimg.cc/Jhhh6Hrv/4ghjftyhg.png) |
+
+
 ## Features
 
 ### 🤖 Multiple AI Backend Support
@@ -214,4 +219,5 @@ Create custom databases with:
 - Use LIMIT clauses for large datasets
 - Create indexes for frequently queried columns
 - Use the schema overview to understand table relationships
+
 - Test queries with small datasets first
