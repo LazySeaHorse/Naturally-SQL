@@ -4,3 +4,5 @@ langchain_community
 openai
 pandas
 sqlalchemy
+langchain-google-genai
+requests
