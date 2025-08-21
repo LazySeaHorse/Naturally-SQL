@@ -12,7 +12,7 @@ A powerful Streamlit application that converts natural language questions into S
 ### 🤖 Multiple AI Backend Support
 - **OpenAI**: GPT-5 Mini, GPT-5 Nano, GPT-OSS models, and GPT-5
 - **Google Gemini**: Gemma-3n, Gemma-3-27b, Gemini-2.5 Flash, and Gemini-2.5 Pro
-- **LM Studio**: Use local models running on your machine
+- **LM Studio**: Use local models running on your machine. Recommended model: [natural-sql-7b](https://huggingface.co/chatdb/natural-sql-7b-GGUF)
 
 ### 📊 Database Management
 - **Upload**: SQLite database files (.db, .sqlite, .sqlite3) or SQL script files (.sql)
@@ -221,3 +221,4 @@ Create custom databases with:
 - Use the schema overview to understand table relationships
 
 - Test queries with small datasets first
+
