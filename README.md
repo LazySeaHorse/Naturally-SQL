@@ -6,7 +6,8 @@ An application that converts natural language questions into SQL queries and exe
 
 **Want to try it without installation?** Visit our [GitHub Pages site](https://lazyseahorse.github.io/Naturally-SQL/) to use a slimmed down sql.js version that runs entirely in your browser - no downloads, no setup, no server required!
 
-| ![Image 1](https://i.postimg.cc/8zXZkXcF/tygfhnjdtxgfhb.png) | ![Image 2](https://i.postimg.cc/sX7mcVcS/tygrhdtrxhgxfbd.png) |
+![Image 1](https://i.postimg.cc/8zXZkXcF/tygfhnjdtxgfhb.png)
+![Image 2](https://i.postimg.cc/sX7mcVcS/tygrhdtrxhgxfbd.png)
 
 ## Features
 
@@ -226,5 +227,6 @@ Create custom databases with:
 - Use the schema overview to understand table relationships
 
 - Test queries with small datasets first
+
 
 
