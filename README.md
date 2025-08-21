@@ -1,11 +1,12 @@
 # 💾 Naturally SQL
 
-A powerful Streamlit application that converts natural language questions into SQL queries and executes them against databases. Create, upload, explore, and query databases using plain English with support for multiple AI backends.
+An application that converts natural language questions into SQL queries and executes them against databases. Create, upload, explore, and query databases using plain English with support for multiple AI backends.
 
-| ![Image 1](https://i.postimg.cc/fLGTRHcQ/1ghjftyhg.png) | ![Image 2](https://i.postimg.cc/XJGY3Myg/2ghjftyhg.png) |
-|----------------------------------------------------------|----------------------------------------------------------|
-| ![Image 3](https://i.postimg.cc/6Q1pD6T3/3ghjftyhg.png) | ![Image 4](https://i.postimg.cc/Jhhh6Hrv/4ghjftyhg.png) |
+## 🌐 Try it in Your Browser
 
+**Want to try it without installation?** Visit our [GitHub Pages site](https://lazyseahorse.github.io/Naturally-SQL/) to use a slimmed down sql.js version that runs entirely in your browser - no downloads, no setup, no server required!
+
+| ![Image 1](https://i.postimg.cc/8zXZkXcF/tygfhnjdtxgfhb.png) | ![Image 2](https://i.postimg.cc/sX7mcVcS/tygrhdtrxhgxfbd.png) |
 
 ## Features
 
@@ -35,6 +36,10 @@ A powerful Streamlit application that converts natural language questions into S
 - **Query Explanations**: AI-powered explanations of query results
 - **Error Handling**: Helpful suggestions for common SQL errors
 - **Real-time Validation**: Check SQL syntax before execution
+
+| ![Image 1](https://i.postimg.cc/fLGTRHcQ/1ghjftyhg.png) | ![Image 2](https://i.postimg.cc/XJGY3Myg/2ghjftyhg.png) |
+|----------------------------------------------------------|----------------------------------------------------------|
+| ![Image 3](https://i.postimg.cc/6Q1pD6T3/3ghjftyhg.png) | ![Image 4](https://i.postimg.cc/Jhhh6Hrv/4ghjftyhg.png) |
 
 ## Installation
 
@@ -221,4 +226,5 @@ Create custom databases with:
 - Use the schema overview to understand table relationships
 
 - Test queries with small datasets first
+
 
